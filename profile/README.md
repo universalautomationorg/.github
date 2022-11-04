@@ -2,10 +2,7 @@
 
 **What is UniversalAutomation.Org?**
 
-UniversalAutomation.org is an independent, not-for-profit association managing the implementation of an industrial automation shared source runtime, 
-based on the IEC61499 interoperability standard. 
-This new level of shared technology provides the basis for an ecosystem of portable, interoperable, “plug and produce” solutions and creates an entirely new category within 
-industrial automation. UniversalAutomation.org is open to new joiners willing to change the game of automation.
+Joining UniversalAutomation.Org means becoming part of a one-of-a-kind organization sharing a common technology that will unleash innovation by decoupling application software from the hardware on which it executes. 
 
 **Benefits**
 
