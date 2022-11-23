@@ -10,6 +10,9 @@ The ongoing development of the runtime is managed by the association followingâ€
 â€¯ 
 UniversalAutomation.org is expanding with more end users/SIs/OEMs and vendors eager to implement the runtime in their products. Any entity looking to help advance industrial automation is welcome to join.  
 
+In this repository, you will find the source code of the runtime execution engine based on the IEC 61499 standard which is only accessible for UAO members.
+
+
 
 To discover more about UniversalAutomation.org:
 Website : https://universalautomation.org/  
