@@ -15,9 +15,20 @@ UniversalAutomation.Org is expanding with more end users/SIs/OEMs and vendors ea
 
 In this repository, you will find the source code of the runtime execution engine based on the IEC 61499 standard which is only accessible for UAO members.
 
-**To discover more about UniversalAutomation.Org:**
+>**To discover more about UniversalAutomation.Org**
 
 Website: https://universalautomation.org  
 LinkedIn: https://www.linkedin.com/company/universalautomation-org/  
 Twitter: https://twitter.com/Join_UAO  
 YouTube : https://www.youtube.com/channel/UCWNfwJa31Hejpcf4gnrDxtw
+
+
+  
+>**Reminder** 
+
+##### Access to the UniversalAutomation.Org code base is restricted to UAO members only. 
+
+License terms can be found in Annex 2 of the UAO IP Policy in the *license.md* file.  
+Details on how to use the repository structure is given in *readme.md*  
+At this point in time, access to the repository is read-only – members cannot contribute code. Please refer to *contribution.md*
+
