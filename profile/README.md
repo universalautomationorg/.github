@@ -11,7 +11,7 @@ UniversalAutomation.Org manages and shares a runtime execution engine based on t
 The ongoing development of the runtime is managed by the association following shared source principles to ensure compatibility. Members act collectively, sharing technology development, insights, and information to create a market of “plug and produce” automation solutions. 
 
 
-![UAO Control Buildtime](https://universalautomation.org/app/uploads/2022/11/RunTimeExecutionEngine_web.png)
+![UAO Control Buildtime](https://universalautomation.org/app/uploads/2022/11/RunTimeExecutionEngine_for_web.png)
   
 UniversalAutomation.Org is expanding with more end users/SIs/OEMs and vendors eager to implement the runtime in their products. Any entity looking to help advance industrial automation is welcome to join.  
 
