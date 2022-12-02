@@ -22,8 +22,7 @@ The end result is the ability to build applications using hardware-independent s
 
 ![UAO Control Buildtime](https://universalautomation.org/app/uploads/2022/11/RunTimeExecutionEngine_for_web.png)
 
-UAO provides a **ready-to-go solution**![image](https://user-images.githubusercontent.com/64254328/205284864-8aef4730-f194-49ad-aba6-ba7fcdf43480.png)
- that enables flexible Industry 4.0 automation architectures and drastically improves return on investment on application software by supporting reusability and portability across hardware platforms.  
+UAO provides a **ready-to-go solution** that enables flexible Industry 4.0 automation architectures and drastically improves return on investment on application software by supporting reusability and portability across hardware platforms.  
 
 The ongoing development of the runtime is managed by the association following shared source principles to ensure portability of software components and interoperability of devices in a distributed system. Members act collectively, sharing technology development, insights, and information to create a market of “plug and produce” automation solutions.
 
