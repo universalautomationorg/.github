@@ -38,7 +38,7 @@ LinkedIn: https://www.linkedin.com/company/universalautomation-org/
 Twitter: https://twitter.com/Join_UAO  
 YouTube : https://www.youtube.com/channel/UCWNfwJa31Hejpcf4gnrDxtw
 
-[Link](https://github.com/universalautomationorg/.github/blob/main/UAO%20IP%20Policy.md) to UniversalAutomation.Org
+[Link](https://github.com/universalautomationorg/.github/blob/main/UAO%20IP%20Policy.md) to UniversalAutomation.Org IP Policy
   
 >**IMPORTANT! - Access to the UniversalAutomation.Org code base is restricted to UAO members only with appropriate access rights.**
 
