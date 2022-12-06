@@ -1,4 +1,4 @@
-Universal Automation Association Intellectual Property Rights Policy
+# Universal Automation Association Intellectual Property Rights Policy
 
 **IP POLICY**
 
